@@ -1,0 +1,12 @@
+[submodule "grudges-react-state"]
+	path = grudges-react-state
+	url = https://github.com/stevekinney/grudges-react-state.git
+[submodule "simple-counter-react-state"]
+	path = simple-counter-react-state
+	url = https://github.com/stevekinney/simple-counter-react-state.git
+[submodule "user-signup-react-state"]
+	path = user-signup-react-state
+	url = https://github.com/stevekinney/user-signup-react-state.git
+[submodule "star-wars-characters-react-state"]
+	path = star-wars-characters-react-state
+	url = https://github.com/stevekinney/star-wars-characters-react-state.git
